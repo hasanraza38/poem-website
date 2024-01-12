@@ -1,0 +1,123 @@
+ul{
+   text-align: center;
+}
+li{
+    margin: 45px;
+    display: inline;
+    padding:auto;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
+#poem{
+    color: #419fdd;
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+   
+}
+#navbar{
+    background-color: #00ffff;
+   
+    padding: 2px;
+}
+*{
+    text-align: center;
+}
+a:hover{
+
+    color:#c0f3f3;
+    text-shadow: 2px 2px black;
+}
+a{
+    
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+}
+#head2{
+    color: #aa3535;
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+#head3{
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: auto;    
+}
+#poem1{
+    
+    color: #87e4e4;     
+
+}
+h1{
+    font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 70px;
+    margin: auto;
+    color: #70f582;
+}
+h1:hover{
+    text-shadow: 2px 2px black;
+}
+p{
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#poem2{
+    color: #f1885e;
+    font-family: "Salsa", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#p2{
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 70px;
+    margin: auto;
+    color: #eef08d; 
+}
+#p3{
+    
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 70px;
+    margin: auto;
+    color: #8df0b6; 
+      
+}
+#poem3{
+    color: #ce7209b0;
+    font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
+
+#p4{
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    margin: auto;
+    color: #bb8df0; 
+  }
+  #poem4{
+    color: #f3d9b6;
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+
+  }
